@@ -76,5 +76,5 @@ Your CSV should contain:
 
 A demo file is included at `data/sample_migration.csv`.
 
-![Dashboard](DashboardFinal.png)
+![Dashboard](FinalDashboardView.png)
 

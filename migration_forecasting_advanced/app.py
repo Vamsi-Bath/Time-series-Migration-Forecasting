@@ -226,25 +226,7 @@ def main() -> None:
         download_df(all_df, "Download standardized full dataset", "standardized_migration_data.csv")
 
         with st.expander("Project structure"):
-            st.code(
-                """
-migration_forecasting_advanced/
-├── app.py
-├── requirements.txt
-├── README.md
-├── data/
-│   └── sample_migration.csv
-└── src/
-    ├── config.py
-    ├── data.py
-    ├── features.py
-    ├── metrics.py
-    ├── models.py
-    ├── evaluation.py
-    ├── insights.py
-    └── visualizations.py
-                """.strip()
-            )
+            st.code()
 
 
 if __name__ == "__main__":

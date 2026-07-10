@@ -1,4 +1,4 @@
-# Migration Forecasting Intelligence
+# Migration Forecasting Experimets
 
 A Streamlit application for forecasting international migration flows, evaluating competing models, exploring socio-economic drivers, and visualising findings.
 

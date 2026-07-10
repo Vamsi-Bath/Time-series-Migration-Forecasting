@@ -1,4 +1,4 @@
-# International Migration Forecasting Intelligence
+# International Migration Forecasting Experiments
 
 A modular Streamlit application for forecasting international migration flows, evaluating competing models, exploring socio-economic drivers, and visualising findings.
 
